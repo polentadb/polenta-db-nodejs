@@ -1,0 +1,21 @@
+{
+  "name": "polenta-db",
+  "version": "1.0.0",
+  "description": "polenta-db - nodejs version",
+  "main": "polentadb.js",
+  "scripts": {
+    "start": "node polentadb.js",
+    "start:dev": "node src/polentadb.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polentadb/polenta-nodejs-db.git"
+  },
+  "author": "paulo@pmbr.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polentadb/polenta-nodejs-db/issues"
+  },
+  "homepage": "https://github.com/polentadb/polenta-nodejs-db#readme"
+}
