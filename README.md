@@ -1,8 +1,8 @@
-# polenta-nodejs-db
+# Polenta DB
 
-polenta-db - in-memory database
+Polenta DB is an in-memory database.
 
-implemented in NodeJs - HTTP protocol version
+This version is implemented in NodeJS, and uses HTTP as communication protocol between clients and server.
 
 # Docker
 
